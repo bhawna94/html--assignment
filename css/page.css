@@ -1,0 +1,65 @@
+.whitetext {
+    color: white;
+    margin-top:20%;
+}
+.image{
+    background-image: url(../img/pic1.jpeg);
+    background-size: 100% 100%;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    height:100%;
+}
+.navbar-default {
+    margin: 0px !important;
+}
+body {overflow-x: hidden;}
+
+.navbar-brand{
+    font-style:oblique !important;
+    color:blue !important;
+    font-weight: bolder !important;
+}
+
+.whitetext1{
+    color: white;
+}
+
+.lastdiv{
+    color: darkgrey;
+    height:100%
+}
+
+img{
+    border-radius: 50%;
+
+}
+.top{
+    margin-top:6px;
+}
+.uselessdiv{
+    background-color: darkgrey;
+    height:50px;
+    width: 100%;
+}
+.div3{
+    background-color: darkgrey;
+    width: 100%;
+}
+p{
+    font-size: large;
+}
+.text{
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+    text-transform: uppercase;
+    text-shadow: 1px 2px 1px #fff;
+    background-color: darkgrey;
+    font-weight: bold;
+
+}
+
+.social{
+    font-size: 30px;
+}
+
